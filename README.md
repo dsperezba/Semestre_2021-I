@@ -1,4 +1,4 @@
-# Semestre_2021-I
+# Semestre 2021 - I 
 Asignaturas cursadas en el semestre 2021-I
 
 1. Minería de Datos: 
